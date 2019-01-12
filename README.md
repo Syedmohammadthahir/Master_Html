@@ -2,7 +2,7 @@
 Complete HTML &amp; HTML5 Tags
 
 <!-- Creative Connect -->
-<!DOCTYPE - >
+!DOCTYPE - 
 a
 abbr
 address
