@@ -5,7 +5,6 @@ Complete HTML &amp; HTML5 Tags
 <!DOCTYPE - >
 a
 abbr
-
 address
 article
 aside
